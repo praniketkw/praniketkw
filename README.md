@@ -85,8 +85,8 @@ Agentic software engineering team powered by CrewAI, leveraging multi-agent coll
 ### ☁️ [AI-Powered Cloud Cost Intelligence Platform](https://github.com/praniketkw/AI-Powered-Cloud-Cost-Intelligence-Platform)
 Intelligent platform for cloud cost optimization using AI-driven insights and analytics to reduce infrastructure expenses.
 
-### � [sCodeFlow](https://github.com/praniketkw/CodeFlow)
-Analyzing code dependencies and microservice interactions to optimize system architecture and improve code quality.
+### 🔍 [CodeFlow](https://github.com/praniketkw/CodeFlow)
+Analyzing code dependencies and service interactions to optimize system architecture and improve code quality.
 
 ---
 
