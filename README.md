@@ -1,8 +1,8 @@
 # Hi there, I'm Praniket! 👋
 
-## 🚀 Software Engineer | GenAI Enthusiast | Building Scalable Systems
+## 🚀 Software Engineer | GenAI
 
-I'm a passionate Software Engineer embracing GenAI, building systems that scale and evolve. I love working on microservices, code analysis, and system design challenges.
+I'm a passionate Software Engineer embracing GenAI, building systems that scale and evolve.
 
 ---
 
